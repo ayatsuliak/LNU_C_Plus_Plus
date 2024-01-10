@@ -1,0 +1,4 @@
+3
+s Steamer Toshiba 349.99 220 black
+w WashingMachine Philips 660 15 30.4
+c Combine Toshiba 999.99 300 10

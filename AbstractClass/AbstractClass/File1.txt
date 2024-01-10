@@ -1,0 +1,11 @@
+10
+d Time document 14:01 simple Pictures
+n News24 news 09:01 normal Ukraine
+c Spongebob cartoons 16:01 8+ QTV
+s LvyNaDjupi show 13:31 16+ Kvartal
+s LigaSmihu show 21:01 14+ Kvartal
+c Simpsons cartoons 17:45 10+ AmericanCartoons
+n Suspilne news 15:01  normal LvivUA
+d MakingAMurderer document 12:00 simple Pictures
+s CHBD show 15:30 18+ Shcherbakov
+n 5news news 19:01 normal 5Channel

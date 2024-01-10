@@ -1,0 +1,6 @@
+1 Tomas Shelby 2 Lenoleum 256 2000 12 6 2021 Farba 11 780 14 05 2021
+4 Gabi Gerarrd 1 Capon 28 150 09 01 2021
+2 Lionel Messi 2 Tsement 120 2300 09 06 2020 Tree 11 3800 30 04 2021
+1 Tomas Shelby 1 Guma 12 300 07 11 2021
+3 Ben Chilwell 3 Tree 32 4000 29 04 2020 Tsement 135 3000 14 09 2022 Guma 110 460 22 08 2021
+3 Ben Chilwell 1 Tsement 200 3400 11 02 2022 

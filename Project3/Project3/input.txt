@@ -1,0 +1,15 @@
+Andriy 01 01 2 walk 1.30 study 3.00
+02 01 1 study 4.00
+03 01 2 walk 1.30 study 3.00
+04 01 3 walk 1.30 study 3.00 song 1.00
+05 01 1 song 2.00
+06 01 2 study 3.00 song 1.00
+07 01 1 study 4.00
+
+Sofia 10 02 4 walk 1.30 study 3.00 song 1.00 play 2.15
+11 02 2 study 3.00 song 1.00
+12 02 3 walk 1.30 study 3.00 song 1.00
+13 02 1 song 2.00
+14 02 1 song 2.00
+15 02 2 study 3.00 song 1.00
+16 02 3 walk 2.30 study 3.00 song 1.00

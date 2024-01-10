@@ -1,0 +1,19 @@
+﻿  algoritm.cpp
+  arr.cpp
+  Class(приклад).cpp
+D:\C++\Project1\Project1\Class(приклад).cpp(78,20): warning C4018: '<': signed/unsigned mismatch
+D:\C++\Project1\Project1\Class(приклад).cpp(80,21): warning C4018: '<': signed/unsigned mismatch
+  class.cpp
+D:\C++\Project1\Project1\class.cpp(511,23): warning C4018: '<': signed/unsigned mismatch
+D:\C++\Project1\Project1\class.cpp(519,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\C++\Project1\Project1\class.cpp(526,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  funk.cpp
+  if.cpp
+  main.cpp
+  Source.cpp
+D:\C++\Project1\Project1\Source.cpp(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  string.cpp
+  Generating Code...
+class.obj : error LNK2005: _main already defined in Class(приклад).obj
+Source.obj : error LNK2005: _main already defined in Class(приклад).obj
+D:\C++\Project1\Debug\Project1.exe : fatal error LNK1169: one or more multiply defined symbols found

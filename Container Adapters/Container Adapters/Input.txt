@@ -1,0 +1,18 @@
+Lviv
+Kyiv
+Boryslav
+Irpin
+Drogobych
+Ternopil
+IvanoFrankivs
+Popasno
+Sevastopol
+Kharkiv
+00
+1 2
+1 5
+2 4
+3 5
+4 5
+8 9
+2 10

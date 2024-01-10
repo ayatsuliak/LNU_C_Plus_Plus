@@ -1,0 +1,3 @@
+Ford Mustang 145 60Ford ModelY 134.5 5 300
+Some Hybrid 125.8 35Some Hybrid 125.8 280 200
+ 260 150

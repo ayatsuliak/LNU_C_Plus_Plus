@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\C++\Exam\Exam\Source.cpp(54,3): error C2259: 'IElectricalAppliance': cannot instantiate abstract class
+D:\C++\Exam\Exam\ElectricalAppliance.h(14): message : see declaration of 'IElectricalAppliance'
+D:\C++\Exam\Exam\Source.cpp(54,3): message : due to following members:
+D:\C++\Exam\Exam\Source.cpp(54,3): message : 'std::string IElectricalAppliance::getType(void)': is abstract
+D:\C++\Exam\Exam\ElectricalAppliance.h(30): message : see declaration of 'IElectricalAppliance::getType'

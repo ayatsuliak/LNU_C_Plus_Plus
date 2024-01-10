@@ -1,0 +1,5 @@
+﻿  SimpleCode.cpp
+D:\I курс\C++\SimpleCode\Multithreading\Project1\SimpleCode.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\I курс\C++\SimpleCode\Multithreading\Project1\SimpleCode.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\I курс\C++\SimpleCode\Multithreading\Project1\SimpleCode.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Project1.vcxproj -> D:\I курс\C++\SimpleCode\Multithreading\x64\Debug\Project1.exe

@@ -1,0 +1,4 @@
+﻿  AbstractClass.cpp
+D:\C++\AbstractClass\AbstractClass\AbstractClass.cpp(221,20): warning C4018: '<': signed/unsigned mismatch
+D:\C++\AbstractClass\AbstractClass\AbstractClass.cpp(223,21): warning C4018: '<': signed/unsigned mismatch
+  AbstractClass.vcxproj -> D:\C++\AbstractClass\Debug\AbstractClass.exe

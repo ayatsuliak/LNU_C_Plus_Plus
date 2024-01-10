@@ -1,0 +1,90 @@
+﻿  Main.cpp
+D:\C++\Associative Containers\Associative Containers\Main.cpp(34,27): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\utility(247,55): warning C4267: 'initializing': conversion from 'size_t' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=const int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xmemory(673): message : see reference to function template instantiation 'std::pair<const int,char>::pair<unsigned __int64,char,0>(std::pair<unsigned __int64,char> &&) noexcept' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xmemory(680): message : see reference to function template instantiation 'std::pair<const int,char>::pair<unsigned __int64,char,0>(std::pair<unsigned __int64,char> &&) noexcept' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xtree(804): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::pair<unsigned __int64,char>>(_Alloc &,_Objty *const ,std::pair<unsigned __int64,char> &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::_Tree_node<std::pair<const int,char>,std::_Default_allocator_traits<std::allocator<std::pair<const int,char>>>::void_pointer>>,
+              _Ty=std::pair<const int,char>,
+              _Objty=std::pair<const int,char>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xtree(805): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::pair<unsigned __int64,char>>(_Alloc &,_Objty *const ,std::pair<unsigned __int64,char> &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::_Tree_node<std::pair<const int,char>,std::_Default_allocator_traits<std::allocator<std::pair<const int,char>>>::void_pointer>>,
+              _Ty=std::pair<const int,char>,
+              _Objty=std::pair<const int,char>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xtree(996): message : see reference to function template instantiation 'std::_Tree_temp_node<std::allocator<std::_Tree_node<std::pair<const int,char>,std::_Default_allocator_traits<_Alloc>::void_pointer>>>::_Tree_temp_node<_Ty>(_Alnode &,std::_Tree_node<std::pair<const int,char>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,_Ty &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,char>>,
+              _Ty=std::pair<unsigned __int64,char>,
+              _Alnode=std::allocator<std::_Tree_node<std::pair<const int,char>,std::_Default_allocator_traits<std::allocator<std::pair<const int,char>>>::void_pointer>>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xtree(1012): message : see reference to function template instantiation 'std::_Tree_temp_node<std::allocator<std::_Tree_node<std::pair<const int,char>,std::_Default_allocator_traits<_Alloc>::void_pointer>>>::_Tree_temp_node<_Ty>(_Alnode &,std::_Tree_node<std::pair<const int,char>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,_Ty &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,char>>,
+              _Ty=std::pair<unsigned __int64,char>,
+              _Alnode=std::allocator<std::_Tree_node<std::pair<const int,char>,std::_Default_allocator_traits<std::allocator<std::pair<const int,char>>>::void_pointer>>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xtree(1033): message : see reference to function template instantiation 'std::pair<std::_Tree_node<std::pair<const int,char>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,true>>::_Emplace<std::pair<unsigned __int64,char>>(std::pair<unsigned __int64,char> &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,char>>,
+              _Kty=int,
+              _Ty=char,
+              _Pr=std::less<int>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xtree(1034): message : see reference to function template instantiation 'std::pair<std::_Tree_node<std::pair<const int,char>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,true>>::_Emplace<std::pair<unsigned __int64,char>>(std::pair<unsigned __int64,char> &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,char>>,
+              _Kty=int,
+              _Ty=char,
+              _Pr=std::less<int>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\map(497): message : see reference to function template instantiation 'std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,char>>>>,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,true>>::emplace<std::pair<unsigned __int64,char>>(std::pair<unsigned __int64,char> &&)' being compiled
+          with
+          [
+              _Kty=int,
+              _Ty=char,
+              _Pr=std::less<int>,
+              _Alloc=std::allocator<std::pair<const int,char>>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\map(498): message : see reference to function template instantiation 'std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,char>>>>,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,true>>::emplace<std::pair<unsigned __int64,char>>(std::pair<unsigned __int64,char> &&)' being compiled
+          with
+          [
+              _Kty=int,
+              _Ty=char,
+              _Pr=std::less<int>,
+              _Alloc=std::allocator<std::pair<const int,char>>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\map(509): message : see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,char>>>> std::multimap<int,char,std::less<int>,std::allocator<std::pair<const int,char>>>::emplace<_Ty>(_Ty &&)' being compiled
+          with
+          [
+              _Ty=std::pair<unsigned __int64,char>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\map(509): message : see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,char>>>> std::multimap<int,char,std::less<int>,std::allocator<std::pair<const int,char>>>::emplace<_Ty>(_Ty &&)' being compiled
+          with
+          [
+              _Ty=std::pair<unsigned __int64,char>
+          ]
+D:\C++\Associative Containers\Associative Containers\Main.cpp(57): message : see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,char>>>> std::multimap<int,char,std::less<int>,std::allocator<std::pair<const int,char>>>::insert<std::pair<unsigned __int64,char>,0>(_Valty &&)' being compiled
+          with
+          [
+              _Valty=std::pair<unsigned __int64,char>
+          ]
+D:\C++\Associative Containers\Associative Containers\Main.cpp(57): message : see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,char>>>> std::multimap<int,char,std::less<int>,std::allocator<std::pair<const int,char>>>::insert<std::pair<unsigned __int64,char>,0>(_Valty &&)' being compiled
+          with
+          [
+              _Valty=std::pair<unsigned __int64,char>
+          ]
+  Associative Containers.vcxproj -> D:\C++\Associative Containers\x64\Debug\Associative Containers.exe

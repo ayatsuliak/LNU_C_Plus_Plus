@@ -1,0 +1,13 @@
+﻿  Container.cpp
+D:\C++\Vector container\Vector container\Container.cpp(35,85): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\C++\Vector container\Vector container\Container.cpp(43,95): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\algorithm(1402,1): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\algorithm(1402,1): message : class does not define an 'operator()' or a user defined conversion operator to a pointer-to-function or reference-to-function that takes appropriate number of arguments
+D:\C++\Vector container\Vector container\Container.cpp(184): message : see reference to function template instantiation '_OutIt std::copy_if<std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,std::ostream_iterator<_Ty,char,std::char_traits<char>>,main::<lambda_ba712e516851b4ceeff52f53b48925a6>>(_InIt,_InIt,_OutIt,_Pr)' being compiled
+          with
+          [
+              _OutIt=std::ostream_iterator<Brigade,char,std::char_traits<char>>,
+              _Ty=Brigade,
+              _InIt=std::_List_iterator<std::_List_val<std::_List_simple_types<Brigade>>>,
+              _Pr=main::<lambda_ba712e516851b4ceeff52f53b48925a6>
+          ]

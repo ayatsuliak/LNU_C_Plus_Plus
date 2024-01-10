@@ -1,0 +1,2 @@
+class Article	2	Paris	Oleg	2022
+class Book	3	C++	Prata	2018
